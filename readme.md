@@ -1,5 +1,8 @@
 # 🌱 Green AI Load Balancer using Deep Reinforcement Learning
 
+![Dashboard](dashboard_image/output1.png)
+
+
 <div align="center">
 
 ## ⚡ Intelligent Cloud Resource Optimization with AI ⚡
@@ -365,25 +368,25 @@ Metrics:
 
 ## 🖥️ Dashboard Overview
 
-![Dashboard](images/output1.png)
+![Dashboard](dashboard_image/output1.png)
 
 ---
 
 ## 📈 Traffic & Server Scaling
 
-![Traffic Graph](images/output2.png)
+![Traffic Graph](dashboard_image/output2.png)
 
 ---
 
 ## ⚡ Performance Metrics
 
-![Performance](images/output3.png)
+![Performance](dashboard_image/output3.png)
 
 ---
 
 ## 📊 Comparison Results
 
-![Comparison](images/output4.png)
+![Comparison](dashboard_image/output4.png)
 
 ---
 
