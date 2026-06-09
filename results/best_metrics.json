@@ -1,0 +1,18 @@
+{
+  "score": 192.47174263989217,
+  "rule_score": 262.8095279379887,
+  "rl_beats_rule": true,
+  "metrics_version": 3,
+  "avg_rl_latency": 76.93281376364932,
+  "avg_rl_cost": 44.312,
+  "avg_rule_latency": 90.61217423562131,
+  "avg_rule_cost": 40.548,
+  "p95_rl_latency": 242.79728876242862,
+  "p95_rule_latency": 312.55553702367416,
+  "rl_sla_violations": 101,
+  "rule_sla_violations": 169,
+  "avg_rl_servers": 11.078,
+  "avg_rule_servers": 10.137,
+  "total_rl_cost": 44312.0,
+  "total_rule_cost": 40548.0
+}
